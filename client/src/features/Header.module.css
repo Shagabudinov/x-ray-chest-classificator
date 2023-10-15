@@ -1,0 +1,28 @@
+.header {
+    background-color: #f5f5f5;
+    padding-bottom: 12px;
+}
+
+.title {
+    font-size: 64px;
+    text-shadow: 4px 4px 8px rgba(126, 126, 126, 0.3);
+    margin-left: 16%;
+}
+
+@media (max-width: 720px) {
+    .title {
+        font-size: 52px;
+    }
+}
+
+@media (max-width: 580px) {
+    .title {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 480px) {
+    .title {
+        font-size: 32px;
+    }
+}

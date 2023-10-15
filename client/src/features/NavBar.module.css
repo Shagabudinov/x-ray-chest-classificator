@@ -1,0 +1,81 @@
+.navbarContainer {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0; /* Добавляем отступы по вертикали (10px) и по горизонтали (0) */
+    margin-top: 16px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap: 120px; /* Расстояние между ссылками */
+    background-color: #f5f5f5;
+    border-radius: 24px;
+}
+
+.activeSpan {
+    background-color: rgb(253, 253, 89);
+    border-radius: 24px;
+    padding: 20px 48px;
+}
+
+.nonActiveSpan {
+    border-radius: 24px;
+    padding: 20px 48px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.NavBarText {
+    font-size: 20px;
+}
+
+@media (max-width: 740px) {
+    .navbar {
+        gap: 60px;
+    }
+}
+
+@media (max-width: 700px) {
+    .navbar {
+        gap: 40px;
+    }
+    .activeSpan {
+        padding: 10px 28px;
+    }
+    
+    .nonActiveSpan {
+        padding: 10px 28px;
+    }
+}
+
+@media (max-width: 580px) {
+    .navbar {
+        gap: 20px;
+    }
+    .NavBarText {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 480px) {
+    .navbar {
+        gap: 0px;
+    }
+    .NavBarText {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 410px) {
+    .activeSpan {
+        padding: 8px 12px;
+    }
+    
+    .nonActiveSpan {
+        padding: 8px 12px;
+    }
+}
