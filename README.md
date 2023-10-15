@@ -21,5 +21,13 @@
 
 Для выполнения последнего пункта на ПК должен быть установлен node js, проверить версию node можно командой "node -v"
 
+Внешний вид приложения:
+
+![image](https://github.com/Shagabudinov/x-ray-chest-classificator/assets/126676680/94b04dad-ccc4-45e8-a956-d03699d4aa69)
+
+![image](https://github.com/Shagabudinov/x-ray-chest-classificator/assets/126676680/b8404b43-a8d8-4ae2-9a66-2378774bbb32)
+
+![image](https://github.com/Shagabudinov/x-ray-chest-classificator/assets/126676680/77aca8cd-ea75-421f-b533-eceea59a5964)
+
 ![image](https://github.com/Shagabudinov/x-ray-chest-classificator/assets/126676680/d2a51e2f-75b1-40d6-b50c-c8427f3beac8)
 
