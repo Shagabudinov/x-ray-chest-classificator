@@ -23,7 +23,7 @@
 
 Внешний вид приложения:
 
-![image](https://github.com/Shagabudinov/x-ray-chest-classificator/assets/126676680/94b04dad-ccc4-45e8-a956-d03699d4aa69)
+![image](https://github.com/Shagabudinov/x-ray-chest-classificator/assets/126676680/e3db1bbb-eeba-4f68-8efb-2d4d10caff71)
 
 ![image](https://github.com/Shagabudinov/x-ray-chest-classificator/assets/126676680/b8404b43-a8d8-4ae2-9a66-2378774bbb32)
 
