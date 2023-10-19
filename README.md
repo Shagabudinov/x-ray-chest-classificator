@@ -25,9 +25,10 @@
 
 ![image](https://github.com/Shagabudinov/x-ray-chest-classificator/assets/126676680/e3db1bbb-eeba-4f68-8efb-2d4d10caff71)
 
-![image](https://github.com/Shagabudinov/x-ray-chest-classificator/assets/126676680/b8404b43-a8d8-4ae2-9a66-2378774bbb32)
+![image](https://github.com/Shagabudinov/x-ray-chest-classificator/assets/126676680/d63a0e81-7e45-45cd-9b68-e416ea1d758c)
 
-![image](https://github.com/Shagabudinov/x-ray-chest-classificator/assets/126676680/77aca8cd-ea75-421f-b533-eceea59a5964)
+![image](https://github.com/Shagabudinov/x-ray-chest-classificator/assets/126676680/67076d9e-77e8-4e2c-b9d0-d4defaf5b10b)
 
-![image](https://github.com/Shagabudinov/x-ray-chest-classificator/assets/126676680/d2a51e2f-75b1-40d6-b50c-c8427f3beac8)
+![image](https://github.com/Shagabudinov/x-ray-chest-classificator/assets/126676680/9fa86faf-68d6-4725-b19f-5c82e12d380d)
+
 
